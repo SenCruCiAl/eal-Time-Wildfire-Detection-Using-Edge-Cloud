@@ -1,0 +1,11 @@
+opencv-python
+ultralytics
+torch
+numpy
+azure-iot-device
+azure-functions
+azure-eventhub
+requests
+sendgrid
+twilio
+PyYAML
